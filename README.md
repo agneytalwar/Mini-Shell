@@ -1,9 +1,9 @@
-The mini shell is designed to simulate the bash shell of UNIX kernel
+The mini shell is designed to simulate the bash shell of UNIX kernel <br/>
 
-COMPILE FILE AS:      g++ minishell.c
-RUN FILE AS:          ./a.out
+COMPILE FILE AS:      g++ minishell.c <br/>
+RUN FILE AS:          ./a.out <br/>
 
-Functions in Mini shell and their description:
+Functions in Mini shell and their description:<br/>
 
 bool takeInput(char*) - TAKES INPUT FROM USER
 char** ConverttoList(char*) - BREAKS GIVEN INPUT INTO WORDS 
